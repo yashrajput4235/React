@@ -12,6 +12,7 @@ import './App.css'
 //In react every file is component
 //the component file name first letter should be capital
 // creating component Person.jsx
+
 import Person from './Person'
 
 function App() {
