@@ -47,7 +47,7 @@ const Use_effect = () => {
     };
 
     fetchUsers();
-  }, []);
+  }, []);// here empty array means how many time the use effect will run
 
   if (loading) {
     return (
